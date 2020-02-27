@@ -1,0 +1,166 @@
+os gostos
+Fabricio Teixeira
+Fabricio Teixeira
+Follow
+Feb 24, 2013 · 10 min read
+
+Para quem não conhece, “Lorem Ipsum” ou “dummy text” é um texto utilizado para preencher o espaço de texto em publicações (jornais, revistas, e websites), com a finalidade de verificar o layout, tipografia e formatação antes de utilizar conteúdo real.
+No nosso caso, é muito usado em wireframes e sketches para preencher algum bloco de texto em que o conteúdo final não tenha muita importância para aquilo que queremos demonstrar. O lorem ipsum simula com razoável fidelidade um texto real, por possuir palavras de diversos tamanhos e sinais de pontuação, permitindo testar também a forma como o texto flui nas caixas e campos de formatação.
+Com o passar do tempo foram surgindo várias ferramentas online que geram esses blocos de textos automaticamente. Isso facilita bastante a vida dos Designers, que só precisam copiar e colar esse texto no wireframe/layout que está sendo criado.
+Como não podia deixar de ser, também apareceram várias versões bem humoradas desses geradores de lorem ipsum, como você vê na lista abaixo.
+Uma boa dica para deixar seus wireframes um pouco mais divertidos.
+Lipsum
+lipsum
+O que é?
+O mais clássico e conhecido dos geradores de Lorem Ipsum.
+Exemplo:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at risus neque. Cras sit amet ligula ut justo commodo porta id ut enim. Nulla est lectus, mollis sit amet vehicula id, volutpat eget mauris.
+Link: Lipsum >
+Cinquenta tons de Lorem Ipsum
+fifty_shadesfifty_shades
+O que é?
+Um gerador de lorem ipsum que utiliza trechos da literatura erótica contemporânea.
+Exemplo:
+Inserting a lightbulb into my vaginal bacon buffet got me flowing sex wee faster than snot off a whip. He munched on my piss flaps, even though I’d been riding the cotton pony for the best part of a week.
+Link: Fifty Shades Generator >
+Trollem Ipsum
+trollem_ipsum
+O que é?
+Gerador de trollagens contra fanboys da Apple, geeks e usuários de BlackBerry, entre outros.
+Exemplo:
+Battery drain, then Apple will only get better especially so-called “iPad killer” due to pleasure to use, nevertheless delay in getting Ice Cream Sandwich, to whom Jony Ive’s incredible design why best design in contrast profit.
+Link: Trollem Ipsum >
+Gag Ipsum
+gag_ipsum
+O que é?
+Um gerador de dummy text com trechos de memes famosos da interwebs.
+Exemplo:
+Crying you don’t say? Grin aww yeah derp top le girlfriend that not okay weekend no. I Know That Feel jackie chan games woman in the kitchen nerd humor challenge accepted final week hac. T-rex all the things really?
+Link: Gag Ipsum >
+Fillerama
+fillerama
+O que é?
+Gerador de textos de séries famosas da TV americana, como Futurama, Dexter, The Simpsons, entre outras.
+Exemplo:
+I’m partial to air conditioning. I’m thinking two circus clowns dancing. You? This man is a knight in shining armor. I’m really more an apartment person.
+Link: Fillerama >
+Zombie Ipsum
+zombie_ipsum
+O que é?
+Uma variação do lorem ipsum com uma temática de zumbis assassinos.
+Exemplo:
+Zombie ipsum reversus ab viral inferno, nam rick grimes malum cerebro. De carne lumbering animata corpora quaeritis. Summus brains sit​​, morbo vel maleficia? De apocalypsi gorger omero undead survivor dictum mauris.
+Link: Zombie Ipsum >
+Bacon Ipsum
+bacon_ipsum
+O que é?
+Um gerador de dummy text para designers apaixonados por bacon.
+Exemplo:
+Bacon ipsum dolor sit amet jerky tongue kielbasa, doner ham hock ribeye swine leberkas sirloin filet mignon tail meatball hamburger. Bresaola ground round kielbasa, beef ribs beef brisket pancetta pork chop jowl ball tip corned beef.
+Link: Bacon Ipsum >
+Veggie Ipsum
+veggie_ipsum
+O que é?
+Se você achou o Bacon Ipsum muito pesado, pode usar essa versão mais light do gerador de textos.
+Exemplo:
+Veggies sunt bona vobis, proinde vos postulo esse magis green bean fava bean spinach avocado caulie welsh onion artichoke turnip chicory soybean.
+Link: Veggie Ipsum >
+Vegan Ipsum
+vegan_ipsum
+O que é?
+Uma versão ainda mais extrema do Veggie Ipsum, dessa vez sem nenhum derivado de animais.
+Exemplo:
+Pignut hamburg parsley tigernut. Carrot burdock scorzonera chaya samphire corn salad prussian asparagus, lettuce, bitterleaf. Indian pea orache ginger potato brussels sprout paracress tinda — potato collard greens; urad bean.
+Link: Vegan Ipsum >
+Cupcake Ipsum
+cupcake_ipsum
+O que é?
+Para UX Designers que querem sair da dieta, palavras relacionadas a cupcake e outras obras-de-arte gastronômicas.
+Exemplo:
+Jujubes tart wafer cheesecake chocolate chocolate candy canes cotton candy. Cotton candy toffee dessert chocolate. Cookie jelly toffee gummi bears halvah croissant apple pie cupcake. Powder sugar plum cotton candy muffin.
+Link: Cupcake Ipsum >
+Liquor Ipsum
+liquor_ipsum
+O que é?
+Um gerador de lorem ipsum para maiores de 18 anos.
+Exemplo:
+Prince shnell hi-fi harper’s chupacabra; charro negro; tequila sunrise vodka mcgovern, glenlossie seven and seven gibbon matador singapore sling imperial. Quentão jagertee, port charlotte southern comfort pisco sour anisette glenlivet churchill sake bomb glenallachie brandy daisy?
+Link: Liquor Ipsum >
+Hipster Ipsum
+hipster_ipsum
+O que é?
+Um gerador de dummy text com óculos de armação grossa, camisa xadrez e filtro do instagram.
+Exemplo:
+Qui butcher farm-to-table locavore sunt quinoa. Bicycle rights pariatur marfa etsy, four loko lomo veniam fashion axe aesthetic. Actually irony quis selfies readymade narwhal. Nesciunt pinterest cillum, wolf swag american apparel carles ex butcher non veniam.
+Link: Hipster Ipsum >
+Samuel L. Ipsum
+samuel_l_ipsum
+O que é?
+Um gerador de lorem ipsum inspirado nos personagens de Samuel L. Jackson.
+Exemplo:
+My money’s in that office, right? If she start giving me some bullshit about it ain’t there, and we got to go someplace else and get it, I’m gonna shoot you in the head then and there.
+Link: Samuel L Ipsum >
+TV Ipsum
+tv_ipsum
+O que é?
+Utiliza trechos randômicos de programas de TV americanos dos anos 70 e 80 para compor o texto.
+Exemplo:
+So join us here each week my friends you’re sure to get a smile from seven stranded castaways here on Gilligans Isle. Boy the way Glen Miller played. Songs that made the hit parade.
+Link: TV Ipsum >
+Vatican Assassin
+vatican_assassin
+O que é?
+Um gerador que mistura o linguajar do Charles Sheen com a estética do inglês bíblico (oi?).
+Exemplo:
+And we are and, I don’t know, winning?… Anyone? …. (long silence) …. Rhymes with winning? …. Anyone? …. Yeah, that would be us.
+Link: Vatican Assassin >
+Swearen Ipsum
+swearen_ipsum
+O que é?
+Gerador de juras em latim.
+Exemplo:
+Swearem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam scelerisque accumsan nisl, a mattis eros vestibulum et. Vestibulum placerat purus ut nibh aliquam fringilla. Aenean et tortor diam, shit tempor minge.
+Link: Swearen Ipsum >
+Ladle Rat Rotten Hut
+rotten_hut
+O que é?
+Um gerador de texto baseado em uma releitura de Chapeuzinho Vermelho escrita por H.L.Chace.
+Exemplo:
+Wants pawn term, dare worsted ladle gull hoe lift wetter murder inner ladle cordage, honor itch offer lodge dock florist. Disk ladle gull orphan worry ladle cluck wetter putty ladle rat hut, an fur disk raisin pimple colder Ladle Rat Rotten Hut.
+Link: Ladle Rat Rotten Hut >
+Blind Text Generator
+blind_text_generator
+O que é?
+Um gerador de lorem ipsum que permite gerar trechos de outras obras e autores — entre eles, Kafka.
+Exemplo:
+One morning, when Gregor Samsa woke from troubled dreams, he found himself transformed in his bed into a horrible vermin. He lay on his armour-like back, and if he lifted his head a little he could see his brown belly, slightly domed and divided by arches into stiff sections.
+Link: Blind Text Generator >
+Random Text Generator
+random_text_generator
+O que é?
+Um gerador de textos em inglês, randômicos, vasculhados e remixados da própria interwebs.
+Exemplo:
+He my polite be object oh change. Consider no mr am overcame yourself throwing sociable children. Hastily her totally conduct may. My solid by stuff first smile fanny. Humoured how advanced mrs elegance sir who.
+Link: Random Text Generator >
+Fillerati
+fillerati
+O que é?
+Gerador de dummy text puxado de várias obras clássicas da literatura — no exemplo abaixo, Moby Dick.
+Exemplo:
+But here is an artist. He desires to paint you the dreamiest, shadiest, quietest, most enchanting bit of romantic landscape in all the valley of the Saco. What is the chief element he employs?
+Link: Fillerati >
+Gangsta Lorem Ipsum
+gangsta_lorem_ipsum
+O que é?
+Um gerador de texto na linguagem dos gângsters, em inglês.
+Exemplo:
+Lorizzle ipsum dolizzle doggy amizzle, adipiscing dawg. Dope sapizzle velizzle, sure volutpat, suscipizzle quis, vizzle, yo mamma. Pellentesque eget tortor. Sizzle erizzle.
+Link: Gangsta Lorem Ipsum >
+Twipsum
+twipsum
+O que é?
+Você digita um termo, ele busca tweets relacionados e cria um dummy text com aquelas palavras.
+Exemplo (buscando por “usabilidade”):
+Quais são bons aparelhos Android/WP com preços razoáveis. Intenção: testes de usabilidade e app?. Para que o usuário cometa menos erros ao acessar uma interface e tenha mais produtividade o projeto deve passar por conceitos de usabilidade.
+Link: Twipsum >
+Skate Ipsum
